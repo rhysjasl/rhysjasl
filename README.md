@@ -1,6 +1,6 @@
 # Rhys-Jasper León ❄️
-🎓 PhD student at University of Colorado, Boulder</br>
-🧊 Ice core geochemist + paleoclimatologist</br>
+🎓 MSc student at University of Colorado, Boulder</br>
+🧊 Data scientist + ice core geochemist + paleoclimatologist</br>
 🌎 Researching internal climate system variability</br>
 </br>
 
